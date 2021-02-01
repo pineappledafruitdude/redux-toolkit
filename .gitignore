@@ -13,3 +13,5 @@ temp/
 .tmp-projections
 
 .rts2*
+
+.local-pack/
